@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CurtainFall_Example' do
+  pod 'CurtainFall', :path => '../'
+
+  target 'CurtainFall_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
