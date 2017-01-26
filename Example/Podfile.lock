@@ -1,0 +1,16 @@
+PODS:
+  - CurtainFall (0.1.0)
+
+DEPENDENCIES:
+  - CurtainFall (from `../`)
+
+EXTERNAL SOURCES:
+  CurtainFall:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CurtainFall: a37de6bd6fc6574f8600869fa327b56f394f3d24
+
+PODFILE CHECKSUM: 03d73dc2e74fb9d1cc0a6a7f8af77738afc1af7b
+
+COCOAPODS: 1.1.1

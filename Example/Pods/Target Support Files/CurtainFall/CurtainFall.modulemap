@@ -1,0 +1,6 @@
+framework module CurtainFall {
+  umbrella header "CurtainFall-umbrella.h"
+
+  export *
+  module * { export * }
+}

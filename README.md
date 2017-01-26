@@ -1,9 +1,6 @@
 # CurtainFall
 
-[![CI Status](http://img.shields.io/travis/Moin/CurtainFall.svg?style=flat)](https://travis-ci.org/Moin/CurtainFall)
-[![Version](https://img.shields.io/cocoapods/v/CurtainFall.svg?style=flat)](http://cocoapods.org/pods/CurtainFall)
-[![License](https://img.shields.io/cocoapods/l/CurtainFall.svg?style=flat)](http://cocoapods.org/pods/CurtainFall)
-[![Platform](https://img.shields.io/cocoapods/p/CurtainFall.svg?style=flat)](http://cocoapods.org/pods/CurtainFall)
+this is an inntial atempt in creating custom controls
 
 ## Example
 
