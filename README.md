@@ -1,10 +1,10 @@
 # CurtainFall
 
-this is an inntial atempt in creating custom controls
+this is an inntial atempt in creating custom controls ofr navigation bar inspired from https://uimovement.com/ui/1648/menu/
 
 ## Example
 
-![CurtainFall Sample](https://www.dropbox.com/s/tuldizgejiodbxs/CurtainDrop.gif?dl=0)
+![CurtainFall Sample](http://giphy.com/gifs/26xBLW8ZudUSU5jeU)
 
 ## Requirements
 
