@@ -2,9 +2,6 @@
 
 this is an inntial atempt in creating custom controls ofr navigation bar inspired from https://uimovement.com/ui/1648/menu/
 
-## Example
-
-![CurtainFall Sample](http://giphy.com/gifs/26xBLW8ZudUSU5jeU)
 
 ## Requirements
 
@@ -17,7 +14,7 @@ CurtainFall is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'CurtainFall', :git => 'https://github.com/MoinPansare/CurtainDrop.git'
+pod 'CurtainFall', :git => 'https://github.com/Albinzr/CurtainDrop.git'
 ```
 
 ## Author
